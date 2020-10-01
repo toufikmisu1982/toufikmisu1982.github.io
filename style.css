@@ -1,0 +1,20 @@
+.container-fluid{
+  background:linear-gradient(90deg,red,cyan,lightblue,rgb
+
+(204,20,20));
+    
+padding:100px;
+  
+margin:10px 10px 20px 20px
+}
+.head{
+  text-align:center;
+    font-family:sans-serif;
+  color:#ff00ff;
+    border:solid;
+  padding:10px 10px 10px 10px;
+  background-color:hsl(180,50%,80%);
+}
+.para{ font-size:50px;
+  color:black;
+  text-align:center;}
